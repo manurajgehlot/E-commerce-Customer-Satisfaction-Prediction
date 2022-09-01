@@ -1,5 +1,5 @@
 # case_study_1_review_sentiment_prediction
-In this Case Study with the help of customer data predict the customer satisfaction whether it is positive or negative i.e. whether he is satisfied with the purchase of products or not
-1.1_case_study_final_last is a file which contains whole process used in the case study solution from beginning step i.e. Data Acquisition till the End Step i.e. Model Prediction 
-2.1_deployment_final is file which conatins code to write streamlit app i.e it contains app.py
-3.1_final it contains the two function i.e. function 1 and function 2 in which function give Prediction w.r.t to single data point and function two give output as score w.r.t model 
+In this Case Study with the help of customer data predict the customer satisfaction whether it is positive or negative i.e. whether he is satisfied with the purchase of products or not<br>
+1.1_case_study_final_last is a file which contains whole process used in the case study solution from beginning step i.e. Data Acquisition till the End Step i.e. Model Prediction <br>
+2.1_deployment_final is file which conatins code to write streamlit app i.e it contains app.py<br>
+3.1_final it contains the two function i.e. function 1 and function 2 in which function give Prediction w.r.t to single data point and function two give output as score w.r.t model <br>
